@@ -1,0 +1,9 @@
+This is a data file
+
+When you process your data file remember to strip the end of the line character.
+rstrip method is a string method that strips a character from end of the string
+
+
+line1 = line1.rstrip('\n')
+
+To handle any potential error use try/except/else
