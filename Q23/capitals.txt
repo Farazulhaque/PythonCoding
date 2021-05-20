@@ -1,0 +1,6 @@
+What is the capital of France?,Paris
+What is the capital of Egypt?,Cairo
+What country has Tokyo as a capital?,Japan
+What country has Lima as a capital?,Peru
+What is the capital of Japan?,Tokyo
+What is the capital of Assyria?,Nineveh
