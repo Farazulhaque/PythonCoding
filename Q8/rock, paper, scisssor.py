@@ -10,8 +10,8 @@ you = 0
 tie = 0
 while player == False:
 
-    print("Let's play Rock, Paper, Scissor! Make your selection: (1 for Rock, 2 for Paper, 3 for Scissors, 0 to end)")
-    player = int(input(">>>"))
+    print("Let's play Rock, Paper, Scissor! \nMake your selection: \n(1 for Rock, 2 for Paper, 3 for Scissors, 0 to end)")
+    player = int(input(">>> "))
 
     if player == 1:
         print("You chose rock.", end=" ")
@@ -59,4 +59,4 @@ while player == False:
         print("Invalid selection. ")
         player = False
 
-    computer = t[randint(0, 2)]
+    computer = randint(0, 2)
