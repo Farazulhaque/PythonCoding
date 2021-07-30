@@ -16,4 +16,4 @@ def compute_sum(filename):
         print("ERROR: File can't open")
 
 
-compute_sum("data.txt")
+compute_sum("sumdata.txt")
