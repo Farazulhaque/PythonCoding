@@ -1,7 +1,9 @@
 from images import Image
 
+
 def invert(image):
     pass
+
 
 def balckAndWhite(image):
     # Converts an image to black and white
@@ -16,6 +18,7 @@ def balckAndWhite(image):
             else:
                 image.setPixel(x, y, whitePixel)
 
+
 def grayscale(image):
     # Converts an image to grayscale
     for y in range(image.getHeight()):
@@ -26,6 +29,7 @@ def grayscale(image):
             b = int(b * 0.114)
             lum = r + g + b
             image.setPixel(x, y, (lum, lum, lum))
+
 
 def main():
     # filename = input("Enter the image file name: ")
@@ -42,6 +46,7 @@ def main():
     balckAndWhite(image)
     invert(image)
     image.draw()
+
 
 if __name__ == "__main__":
     main()
