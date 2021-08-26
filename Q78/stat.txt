@@ -1,0 +1,4 @@
+Average height of the points are 508.75
+Maximum height is 922.07
+Minimum height is 246.80
+Difference between maximum height and minimum height is 413.32
