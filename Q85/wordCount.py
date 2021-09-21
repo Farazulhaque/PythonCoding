@@ -32,7 +32,7 @@ def modFile(fileOpen):
     unique = set(wordList)
     for word in unique:
         wordList.count(word)
-        outFile.write(str(wordList) + ":" + str(wordList.count(word)))
+        outFile.write(str(word) + ":" + str(wordList.count(word)))
     outFile.close()
 
 
