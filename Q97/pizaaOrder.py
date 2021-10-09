@@ -114,10 +114,10 @@ print()
 print("*" * 52)
 print("Your Order Summary".center(52))
 print("%-25s %-19s $%5s" %
-      ("Your pizza size", "Large", "{0:.2f}".format(sizePrice)))
+      ("Your pizza size", s.capitalize(), "{0:.2f}".format(sizePrice)))
 print("%-25s %-18s +$%5s" %
-      ("Your topping option", "Veggie", "{0:.2f}".format(toppingPrice)))
+      ("Your topping option", t.capitalize(), "{0:.2f}".format(toppingPrice)))
 print("%-25s %-18s +$%5s" %
-      ("Your pizza crust", "Crispy", "{0:.2f}".format(crustPrice)))
+      ("Your pizza crust", c.capitalize(), "{0:.2f}".format(crustPrice)))
 print("="*52)
 print("%-45s $%5s" % ("Total Price:", "{0:.2f}".format(total)))
