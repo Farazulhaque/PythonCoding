@@ -1,0 +1,7 @@
+INFO 2014-07-03T23:27:51 supybot Shutdown initiated.
+INFO 2014-07-03T23:27:51 supybot Killing Driver objects.
+...
+INFO 2014-07-03T23:31:22 supybot Total CPU time taken: 1.12 seconds.
+INFO 2014-07-03T23:31:22 supybot No more Irc objects, exiting.
+...
+INFO 2014-07-03T23:31:22 supybot Shutdown initiated.
