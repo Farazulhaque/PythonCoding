@@ -6,7 +6,7 @@ def main():
 
     with open("test.txt", "a") as file:
         file.write("hello world")
-F
+
     print("\nTest.txt file after adding 'hello world' at the end.")
     with open("test.txt", "r") as file:
         for line in file:
@@ -14,4 +14,3 @@ F
 
 
 main()
-
