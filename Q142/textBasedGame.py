@@ -42,10 +42,16 @@ while (1):  # gameplay loop
     print('You are in ', state)  # printing state
     print('Inventory:', inventory)  # printing inventory
     item = get_item(state)  # calling get_item function
-    print('You see a', item)  # print
+    if item not in inventory:
+        print('You see a', item)  # print
     print('------------------------------')
-    if item == 'Kracken':  # if
+    if item == 'Kracken' and len(inventory) != 6:  # if
         print('NOM NOM...GAME OVER!')
+        print('Thanks for playing! Hope you enjoyed it!')
+        exit(0)
+    if item == 'Kracken' and len(inventory) == 6:
+        # print
+        print('Congratulations! You have collected all items and defeated the Kracken!')
         print('Thanks for playing! Hope you enjoyed it!')
         exit(0)
     direction = input('Enter your move: ').title()  # asking user
@@ -64,8 +70,3 @@ while (1):  # gameplay loop
             inventory.append(item)  # appending
     else:
         print('Invalid direction!!')  # print
-    if len(inventory) == 6:
-        # print
-        print('Congratulations! You have collected all items and defeated the Kracken!')
-        print('Thanks for playing! Hope you enjoyed it!')
-        exit(0)
