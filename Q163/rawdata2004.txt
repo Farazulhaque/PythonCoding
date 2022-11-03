@@ -1,0 +1,228 @@
+Qatar $ 98,900
+Liechtenstein $ 89,400
+Luxembourg $ 80,600
+Bermuda $ 69,900
+Singapore $ 59,700
+Jersey $ 57,000
+Falkland Islands (Islas Malvinas) $ 55,400
+Norway $ 53,400
+Brunei $ 49,500
+Hong Kong $ 49,400
+United States $ 48,300
+United Arab Emirates $ 47,700
+Guernsey $ 44,600
+Switzerland $ 44,500
+Cayman Islands $ 43,800
+Gibraltar $ 43,000
+Netherlands $ 42,000
+Kuwait $ 41,700
+Austria $ 41,600
+Ireland $ 40,800
+Australia $ 40,800
+Sweden $ 40,700
+Canada $ 40,500
+British Virgin Islands $ 38,500
+Iceland $ 38,100
+Germany $ 38,100
+Belgium $ 37,800
+Taiwan $ 37,700
+Greenland $ 37,400
+Andorra $ 37,200
+Denmark $ 37,000
+United Kingdom $ 36,500
+San Marino $ 36,200
+Finland $ 36,000
+France $ 35,100
+Isle of Man $ 35,000
+Japan $ 34,700
+European Union $ 34,100
+Macau $ 33,000
+Israel $ 31,500
+Korea, South $ 31,200
+Spain $ 30,500
+Faroe Islands $ 30,500
+Italy $ 30,500
+Bahamas, The $ 30,400
+Slovenia $ 28,800
+New Zealand $ 28,000
+Bahrain $ 27,700
+Oman $ 27,600
+Cyprus $ 27,500
+Czech Republic $ 27,100
+Greece $ 26,300
+Malta $ 25,600
+Seychelles $ 25,400
+Barbados $ 25,000
+Saudi Arabia $ 24,400
+Portugal $ 23,400
+Slovakia $ 23,300
+Aruba $ 21,800
+Estonia $ 20,400
+Poland $ 20,200
+Trinidad and Tobago $ 20,000
+Hungary $ 19,600
+Equatorial Guinea$ 19,300
+Lithuania $ 19,100
+Croatia $ 18,000
+French Polynesia $ 18,000
+Argentina $ 17,700
+Chile $ 17,400
+Antigua and Barbuda $ 17,100
+Latvia $ 16,800
+Russia $ 16,700
+Puerto Rico $ 16,300
+Gabon $ 16,300
+Malaysia $ 16,200
+Botswana $ 16,100
+Saint Kitts and Nevis $ 15,600
+Lebanon $ 15,500
+Sint Maarten $ 15,400
+Uruguay $ 15,100
+New Caledonia $ 15,000
+Mauritius $ 15,000
+Belarus $ 15,000
+Curacao $ 15,000
+Guam $ 15,000
+Mexico $ 14,700
+Virgin Islands $ 14,500
+Turkey $ 14,400
+Dominica $ 14,300
+Panama $ 14,100
+Grenada $ 13,800
+Bulgaria $ 13,800
+Iran $ 13,200
+Saint Lucia $ 13,100
+Kazakhstan $ 13,000
+Venezuela $ 12,600
+Northern Mariana Islands $ 12,500
+Romania $ 12,500
+Anguilla $ 12,200
+Costa Rica $ 11,900
+Suriname $ 11,800
+Brazil $ 11,800
+Montenegro $ 11,500
+Turks and Caicos Islands $ 11,500
+Saint Vincent and the Grenadines $ 11,500
+South Africa $ 11,000
+Macedonia $ 10,500
+Serbia $ 10,400
+Azerbaijan $ 10,200
+Colombia $ 10,200
+Peru $ 10,100
+Cuba $ 9,900
+Tunisia $ 9,400
+Thailand $ 9,400
+Dominican Republic $ 9,300
+Cook Islands $ 9,100
+Jamaica $ 8,900
+Timor-Leste $ 8,700
+Maldives $ 8,600
+Ecuador $ 8,500
+Montserrat $ 8,500
+China $ 8,400
+Belize $ 8,200
+Bosnia and Herzegovina $ 8,100
+Palau $ 8,100
+American Samoa $ 8,000
+Albania $ 7,800
+Turkmenistan $ 7,800
+Guyana $ 7,600
+El Salvador $ 7,500
+Namibia $ 7,500
+Algeria $ 7,300
+Tonga $ 7,300
+Ukraine $ 7,200
+Saint Pierre and Miquelon $ 7,000
+Kosovo $ 6,500
+Egypt $ 6,500
+Paraguay $ 6,200
+Libya $ 6,000
+Samoa $ 6,000
+Jordan $ 5,900
+Angola $ 5,900
+Bhutan $ 5,800
+Niue $ 5,800
+Kiribati $ 5,700
+Sri Lanka $ 5,700
+Georgia $ 5,500
+Armenia $ 5,400
+Swaziland $ 5,300
+Morocco $ 5,100
+Guatemala $ 5,100
+Syria $ 5,100
+Nauru $ 5,000
+Mongolia $ 4,800
+Bolivia $ 4,800
+Vanuatu $ 4,800
+Indonesia $ 4,700
+Fiji $ 4,600
+Congo, Republic of the $ 4,500
+Honduras $ 4,400
+Iraq $ 4,200
+Philippines $ 4,100
+Cape Verde $ 3,900
+Wallis and Futuna$ 3,800
+India $ 3,700
+Vietnam $ 3,400
+Moldova $ 3,400
+Uzbekistan $ 3,300
+Tuvalu $ 3,300
+Solomon Islands $ 3,200
+Nicaragua $ 3,200
+Ghana $ 3,100
+West Bank $ 2,900
+Laos $ 2,800
+Pakistan $ 2,800
+Sudan $ 2,700
+Djibouti $ 2,600
+Nigeria $ 2,600
+Papua New Guinea $ 2,500
+Marshall Islands $ 2,500
+Western Sahara $ 2,500
+Saint Helena, Ascension, and Tristan da Cunha $ 2,500
+Kyrgyzstan $ 2,400
+Sao Tome and Principe $ 2,300
+Cameroon $ 2,300
+Yemen $ 2,300
+Micronesia, Federated States of $ 2,200
+Cambodia $ 2,200
+Tajikistan $ 2,100
+South Sudan $ 2,100
+Mauritania $ 2,000
+Senegal $ 2,000
+Chad $ 1,900
+Gambia, The $ 1,900
+Bangladesh $ 1,900
+Lesotho $ 1,900
+Korea, North $ 1,800
+Kenya $ 1,700
+Tanzania $ 1,600
+Benin $ 1,600
+Cote d'Ivoire $ 1,600
+Zambia $ 1,600
+Uganda $ 1,400
+Burma $ 1,300
+Burkina Faso $ 1,300
+Rwanda $ 1,300
+Nepal $ 1,200
+Haiti $ 1,200
+Comoros $ 1,200
+Guinea $ 1,100
+Ethiopia $ 1,100
+Sierra Leone $ 1,100
+Mali $ 1,100
+Mozambique $ 1,100
+Guinea-Bissau $ 1,100
+Togo $ 1,000
+Afghanistan $ 1,000
+Tokelau $ 1,000
+Madagascar $ 900
+Malawi $900
+Central African Republic $800
+Niger 	 $800
+Eritrea $ 700
+Somalia $ 600
+Liberia $ 600
+Burundi $ 600
+Zimbabwe $ 500
+Congo, Democratic Republic of the $ 300
